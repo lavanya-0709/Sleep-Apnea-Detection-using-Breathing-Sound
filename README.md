@@ -49,13 +49,15 @@ Home Page: Project overview and usage instructions
 
 Detection Page: Audio upload and apnea prediction
 
-📊 Output Classes
-
-No Apnea
+## Output Classes
 
 Mild Apnea
+<img width="702" height="391" alt="image" src="https://github.com/user-attachments/assets/8c399989-75d4-4874-a3c1-267577e74f1e" />
+
 
 Severe Apnea
+<img width="741" height="399" alt="image" src="https://github.com/user-attachments/assets/07388158-46fd-429c-b0eb-217de49cdbad" />
+
 
 ## Features
 
