@@ -1,16 +1,16 @@
 # Sleep-Apnea-Detection-using-Breathing-Sound
 # Name: LAVANYA S
 # REG NO : 212223230112
-💤 Sleep Apnea Detection System
-📌 Project Overview
+
+##  Project Overview
 
 Sleep Apnea Detection System is a machine learning–based web application designed to identify sleep apnea conditions using sleep-related audio data. The system classifies the user’s condition into No Apnea, Mild Apnea, or Severe Apnea, helping in early detection and awareness of sleep disorders.
 
-🎯 Problem Statement
+## Problem Statement
 
 Sleep apnea is a serious sleep disorder where breathing repeatedly stops during sleep. Traditional diagnosis methods are expensive and require sleep laboratories, which makes early detection difficult for many people. This project aims to provide a low-cost and accessible solution using machine learning.
 
-✅ Objectives
+## Objectives
 
 Detect sleep apnea using machine learning techniques
 
@@ -20,7 +20,7 @@ Provide a user-friendly web interface
 
 Support early diagnosis and health awareness
 
-🛠️ Technologies Used
+## Technologies Used
 
 Programming Language: Python
 
@@ -32,7 +32,7 @@ Web Framework: Flask
 
 Frontend: HTML, CSS
 
-🧠 System Architecture
+## System Architecture
 
 User uploads sleep audio data
 
@@ -44,7 +44,7 @@ Model prediction
 
 Result display on web interface
 
-📂 Project Modules
+## Project Modules
 
 Login Page: Secure user authentication
 
@@ -52,7 +52,7 @@ Home Page: Project overview and usage instructions
 
 Detection Page: Audio upload and apnea prediction
 
-📊 Output Classes
+## Output Classes
 
 No Apnea
 
@@ -60,7 +60,7 @@ Mild Apnea
 
 Severe Apnea
 
-✨ Features
+## Features
 
 Easy-to-use web interface
 
@@ -70,7 +70,7 @@ Automated apnea detection
 
 Supports early health diagnosis
 
-⚠️ Limitations
+## Limitations
 
 Depends on audio quality
 
@@ -78,7 +78,7 @@ Not real-time monitoring
 
 Requires larger datasets for improved accuracy
 
-🚀 Future Enhancements
+## Future Enhancements
 
 Mobile application support
 
@@ -88,12 +88,12 @@ Cloud-based report storage
 
 Doctor consultation integration
 
-🌍 SDG Goals
+## SDG Goals
 
 SDG 3: Good Health and Well-Being
 
 SDG 9: Industry, Innovation and Infrastructure
 
-📌 Conclusion
+## Conclusion
 
 The Sleep Apnea Detection System provides an efficient and affordable solution for early detection of sleep apnea. With further enhancements, it can be extended for real-world healthcare applications.
